@@ -1,5 +1,3 @@
-# Resume-Screening-Ranking-System
-A project for automated resume screening and ranking system
 # 🚀 Resume Screening & Ranking System
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
