@@ -95,7 +95,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-Your Name - koustavkamrakar2004@gmail.com
+Your Name - koustavkamarakar2004@gmail.com
 
 Project Link: [https://github.com/koustav24/Resume-Screening-Ranking-System](https://github.com/koustav24/Resume-Screening-Ranking-System)
 
