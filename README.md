@@ -21,10 +21,10 @@ An intelligent, AI-driven application that automates the tedious process of scre
 ## 🖥️ Demo
 
 <!-- Replace with actual screenshot when available -->
-![Resume Ranking Demo](https://raw.githubusercontent.com/koustav24/Resume-Screening-Ranking-System/main/Home-Page.png)
-![Resume Ranking Demo](https://raw.githubusercontent.com/koustav24/Resume-Screening-Ranking-System/main/Data-Input.png)
-![Resume Ranking Demo](https://raw.githubusercontent.com/koustav24/Resume-Screening-Ranking-System/main/Data-Output.png)
-![Resume Ranking Demo](https://raw.githubusercontent.com/koustav24/Resume-Screening-Ranking-System/main/Data-Output(2).png)
+![Resume Ranking Demo](https://raw.githubusercontent.com/koustav24/Resume-Screening-Ranking-System/main/Screenshots/Home-Page.png)
+![Resume Ranking Demo](https://raw.githubusercontent.com/koustav24/Resume-Screening-Ranking-System/main/Screenshots/Data-Input.png)
+![Resume Ranking Demo](https://raw.githubusercontent.com/koustav24/Resume-Screening-Ranking-System/main/Screenshots/Data-Output.png)
+![Resume Ranking Demo](https://raw.githubusercontent.com/koustav24/Resume-Screening-Ranking-System/main/Screenshots/Data-Output(2).png)
 ## 🛠️ Technologies
 
 - **Python** - Core programming language
