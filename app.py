@@ -77,6 +77,9 @@ def rank_resumes(job_description, resumes):
     resume_vectors = vectors[1:]
     cosine_similarities = cosine_similarity([job_description_vector], resume_vectors).flatten()
 
+    # Adjust scores to the correct decimal place
+    cosine_similarities *= 10
+
     return cosine_similarities
 
 
